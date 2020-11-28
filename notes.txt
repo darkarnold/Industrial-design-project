@@ -1,0 +1,63 @@
+TODO: 
+- Get font sizes of all text on page
+- Get hex/rgb value of all colors on page
+- Get font colors of subscription text
+- Details of extras blocks 
+- How to structure the tiles code-wise? All one grid? Or more than 1 grid?
+
+
+-----------
+Details:
+-----------
+
+gap between tiles is 40px
+text is white
+distance between the tiles and the outer border of the page is 100px. 
+
+page block: 
+ ~color? 
+total size: 1360px x 2600px
+
+header block: 
+ --logo block: 290px wide, 65px tall
+ --search block: 175px wide
+gap between logo and searchbar is about 700px
+
+
+coffee block: 
+1160px x 500px
+margin between title/desc/button and left edge is 60px
+margin-top of title is 110px 
+distance between title and description is 50px
+width of description is 360px 
+distance between description and buy button is 145px
+buy button is 160px x 60px 
+
+
+technology blocks (middle tiles):
+each is 560px x 520px
+margin-top of title is 60px 
+margin between text/desc/button and near border is 30px 
+distance between title and desc is 32px
+distance between desc and buy buttons is 70px
+buy button is 120px x 50px 
+
+extras blocks (bottom tiles):
+each is 360px x 440px
+TODO:
+ - margin-top of title
+ - margin top of desc 
+ - margin-top of buttons 
+ - width/height of buttons 
+
+gap between the bottom of the extras blocks and the top of the subscribe block is around 160px
+
+subscription block:
+gap between title and description is 32px
+gap between description and email button/form thing is 55px
+size of buttons: 360px x 60px
+gap between email thing and subscribe button is 20px
+gap between subscribe button and top of footer is 100px
+
+footer block:
+gap between footer navbar and copyright is 32px
