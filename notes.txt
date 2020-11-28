@@ -61,3 +61,224 @@ gap between subscribe button and top of footer is 100px
 
 footer block:
 gap between footer navbar and copyright is 32px
+
+coffee/ Gina block dimensions:
+title { 
+font-size: 80px;
+line-height: 96px;
+font-family: League Spartan
+font-weight: bold / 900;
+}
+
+subtitle {
+  font-size: 32px;
+  line-height: 38.4px;
+  font-family: HK Grotesk;
+  font-weight: 100 / Light;
+  width: 413px;
+  height: 378px;
+}
+
+shop-now-button {
+  font-family: HK Grotesk;
+  font-size: 21px;
+  line-height: 28.8px;
+  font-weight: 100 / light;
+  }
+
+kickstarter- badge {
+  width: 112px;
+  height: 115px;
+}
+
+Beoplay A1 block:
+title {
+  font-size: 48px;
+  line-height: 42.52px;
+  font-family: League Spartan;
+  font-weight: bold / 900;
+}
+
+subtitle {
+  width: 482px;
+  height: 102px;
+  fonr-size: 24px;
+  line-height: 28.8px;
+  font-family: HK Grotesk;
+  font-weight: 100 / light;
+}
+
+Beoplay__buy-now-button {
+  font-size: 18px;
+  line-height: 21.6px;
+  font-family: League Spartan;
+  font-weight: 900 / bold;
+  border: 3px solid #EEC9A2;
+}
+
+Leica block:
+background-color: #7778C6;
+title {
+  font-size: 48px;
+  line-height: 42.52px;
+  font-family: League Spartan;
+  width: 203px;
+  height: 64px;
+}
+
+subtitle {
+  width: 482px;
+  height: 102px;
+  font-family: HK Grotesk;
+  font-weight: 100/ light;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+
+Leica__buy-now-button {
+  font-size: 18px;
+  line-height: 21.6px;
+  font-family: League Spartan;
+  font-weight: 900 / bold;
+  border: 3px solid #EEC9A2;
+}
+
+Molekule block
+background-color: #E97864;
+ title {
+   font-size: 36px;
+   font-family: League Spartan;
+   font-weight: 900/ bold;
+   line-height: 42.52px;
+}
+
+subtitle {
+  font-family: HK Grotesk;
+  font-size: 16px;
+  font-weight: 100 / light;
+  line-height: 19.2px;
+  }
+
+  Details-button {
+    width: 120px;
+    height: 48px;
+    font-size: 18px;
+    font-family: League Spartan;
+    font-weight: 900 / bold;
+    border: 3px solid #EEC9A2;
+    line-height: 21.6px;
+  }
+
+  P9 Signature block:
+  background-color: #557581;
+  title {
+    font-family: League Spartan;
+    font-size: 36px;
+    font-weight: 900 / bold;
+    line-height: 42.52px
+  }
+
+  subtitle {
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 100 / light;
+    line- height: 19.2px;
+  }
+
+  Details-button {
+    width: 120px;
+    height: 48px;
+    font-size: 18px;
+    font-family: League Spartan;
+    font-weight: 900 / bold;
+    border: 3px solid #EEC9A2;
+    line-height: 21.6px;
+  }
+
+  DR-II block:
+  background-color: #82C9D8;
+  title {
+    font-family: League Spartan;
+    font-size: 36px;
+    font-weight: 900 / bold;
+    line-height: 42.52px
+  }
+
+  subtitle {
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 100 / light;
+    line- height: 19.2px;
+  }
+
+  Details-button {
+    width: 120px;
+    height: 48px;
+    font-size: 18px;
+    font-family: League Spartan;
+    font-weight: 900 / bold;
+    border: 3px solid #EEC9A2;
+    line-height: 21.6px;
+  }
+
+newsletter / subscribe section:
+width: 819px;
+height: 298px;
+ 
+ title {
+   font-family: HK Grotesk;
+   font-size: 36px;
+   font-weight: 100 / light;
+   color: #92A1A9;
+   line-height: 43.2px;
+}
+
+subtitle {
+  font-family: HK Grotesk;
+   font-size: 18px;
+   font-weight: 100 / light;
+   color: #92A1A9;
+   line-height: 21.6px;
+}
+
+email-field {
+  width: 360px;
+  height: 60px;
+  font-size: 24px;
+  font-family: HK Grotesk;
+  font-weight: 100 / light;
+   color: #92A1A9;
+   line-height: 28.8px;
+   border: 3px solid #63757E;
+
+}
+
+subscribe button {
+  font-family: League Spartan;
+  font-size: 18px;
+  font-weight: 900 / bold;
+  border: 3px solid #82C9D8;
+  line-height: 21.6px;
+}
+
+footer section :
+width: 534px;
+height: 78px
+
+social- media- section {
+  font-size: 24px;
+  font-family: HK Grotesk;
+  font-weight: 100 / light;
+   color: #92A1A9;
+   line-height: 28.8px;
+  }
+
+  copyright {
+  font-size: 18px;
+  font-family: HK Grotesk;
+  font-weight: 100 / light;
+  color: #92A1A9;
+  line-height: 21.6px;
+  
+  }
+   page- background- color: #272F45;
